@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<?php
-
-
-
-
-include ("../partials/db.php");
-include ("admin_partial/Head.php");
-include ("admin_partial/Header.php");
-include ("admin_partial/Aside.php")
-
-
-
-
-?>
-
 <body class="hold-transition skin-blue sidebar-mini">
 <div class="wrapper">
 

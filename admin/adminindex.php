@@ -3,7 +3,7 @@
 
 <?php
 
-
+include ("admin_partial/session.php");
 include ("admin_partial/Head.php");
 include ("admin_partial/Header.php");
 include ("admin_partial/Aside.php")

@@ -17,7 +17,7 @@ include ("admin_partial/Head.php");
 <input type="password" class="form-control" id="pass" name="password" placeholder="Enter password">
 </div>
 <div class="box-footer">
-<button type="submit" class="btn btn-primary">Submit</button>
+<button type="submit" name="login" class="btn btn-primary">Submit</button>
 </div>            
 </form>
 </div>
